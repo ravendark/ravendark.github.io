@@ -228,7 +228,7 @@ nav { display: none; }
         display: grid;
         grid-template-columns: 1fr 200px;
         grid-template-areas: 
-            "titlel img"
+            "title img"
             "subtitle img"
             "text img";
         grid-column-gap: 2em;
@@ -238,15 +238,19 @@ nav { display: none; }
         grid-area: title;
     }
 
+    .section__title--about,
     .section__subtitle--about {
         grid-column: 1 / -1;
         grid-row: 2;
         position: relative;
-        left: -2em;
-        width: calc(100% + 4em);
+        left: 12em;
+        width: calc(100% + 2em);
+        padding-left: 1em;
+        padding-right: calc(200px + 4em);
     }
 
     .about-me__img {
-        grid-area: img;
+        grid-row: 1 / -1;
+        grid-column: 2;
     }
 }
