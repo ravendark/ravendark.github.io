@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Greetings! My name is Scott, but around the internet I'm mostly known under
-the monicer of ravendark. I grew up in South West PA (think Pittsburgh), but
+the moniker of ravendark. I grew up in South West PA (think Pittsburgh), but
 the last few years have been living in Tacoma, WA.
 
 I've been interested in technology of various forms from a very young age. I think
