@@ -15,8 +15,6 @@ board, then connecting to a tape deck and crt TV.
 
 We have come a very long way indeed.
 
-
-
 ### More Information
 
 I currently work for Amazon at one of many Fullfilment Centers in my area of Washington.
