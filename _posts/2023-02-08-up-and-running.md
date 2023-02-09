@@ -3,7 +3,7 @@ layout: post
 title: Up and Running!
 ---
 Almost everything should be up and running. Social Media links should be working.
-Duscqus comments are integrated. And the About page is updated.
+Discqus comments are integrated. And the About page is updated.
 
 I've even got everthing on my main github profile updated!
 
