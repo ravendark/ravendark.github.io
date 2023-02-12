@@ -10,4 +10,4 @@ summary:
 
 It's official! I'm cleared to start on March 1st 2023. 
 
-![Cleared to Start](/images/2023-02-10-screenshot.png "Cleared to Start")
+![Cleared to Start](/images/20230210/2023-02-10-screenshot.png "Cleared to Start")
