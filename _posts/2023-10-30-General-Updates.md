@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: General Update for Week 3 of New Job
 date: 2023-10-30 19:36
 category: 
 author: 
