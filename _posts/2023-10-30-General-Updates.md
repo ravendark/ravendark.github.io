@@ -1,13 +1,14 @@
- ---
-layout: post
-title: General Update for Week 3 of New Job
-date: 2023-10-30 19:36
-category: 
-author: 
-tags: []
-summary: Feelings starting week 3 of the new job.
----
 
+--
+layout: post
+title: General update for Week 3 of new job
+date: 2023-10-30 19:36
+category:
+author: ravendark
+tags: []
+summary: general feelings starting my third week of new position.
+---
+-
 I must say, even though I really miss the people I was working with
 up at PAE2, I'm very happy to be back at BFI3. A lot of folks I worked
 with previously are still there. So it's been great catching up with
